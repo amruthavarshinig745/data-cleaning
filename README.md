@@ -36,4 +36,4 @@ You can include screenshots of:
 Successfully cleaned and saved the Netflix dataset as netflix_cleaned.csv, ready for further analysis or visualization.
 
 ## 🙋‍♀ Submitted By
-Yeshashwini G
+Amrutha Varshini G
